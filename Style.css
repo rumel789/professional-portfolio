@@ -27,3 +27,28 @@ h1{
 .header-part img{
     width: 600px;
 }
+#header2{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position: right;
+    margin-top: 10%;
+}
+.dream-area{
+    padding-right: 5%;
+}
+.dream-area img{
+    width: 400px;
+}
+.resume{
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+.last-code{
+    display: flex;
+   padding: 10px 40px
+}
+    .title-color{
+        color: rgb(245, 85, 11);
+    }
